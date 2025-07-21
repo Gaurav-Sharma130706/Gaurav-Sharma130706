@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Gaurav Sharma! 👋
 
-<!--
-**Gaurav-Sharma130706/Gaurav-Sharma130706** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍🎓 About Me
+I'm a passionate student who loves diving into the world of tech. Always curious, always experimenting, I enjoy building, learning, and growing through code.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages:** HTML, CSS, JavaScript, C++, C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Motto
+> "Code with curiosity, learn with passion, and never stop exploring new tech!"
+
+## 🚀 Projects
+*Feel free to check out my repositories and see what I'm working on!*
+
+## 📫 Contact Me
+- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [Personal Website](#) <!-- Add your personal website URL here -->
+- **Gmail:** *Reach out via LinkedIn for my email address!*
+
+---
+
+*Let's connect, learn, and build awesome things together!*
