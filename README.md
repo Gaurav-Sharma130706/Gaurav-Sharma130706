@@ -17,7 +17,7 @@ I'm a passionate student who loves diving into the world of tech. Always curious
 ## 📫 Contact Me
 - [LinkedIn](#) <a href="https://www.linkedin.com/in/gaurav-sharma-0a6a65323/"></a>
 - [Personal Website](#) <!-- Add your personal website URL here -->
-- **Gmail:** gaurav130706@gmail.com
+Gmail: gaurav130706@gmail.com
 
 ---
 
