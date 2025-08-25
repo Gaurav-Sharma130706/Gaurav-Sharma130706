@@ -9,7 +9,7 @@ I'm a passionate student who loves diving into the world of tech. Always curious
 
 
 ## 🌟 Motto
-> "Code with curiosity, learn with passion, and never stop exploring new tech!"
+"Code with curiosity, learn with passion, and never stop exploring new tech!"
 
 ## 🚀 Projects
 *Feel free to check out my repositories and see what I'm working on!*
