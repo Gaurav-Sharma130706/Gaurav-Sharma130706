@@ -15,9 +15,9 @@ I'm a passionate student who loves diving into the world of tech. Always curious
 *Feel free to check out my repositories and see what I'm working on!*
 
 ## 📫 Contact Me
-- [LinkedIn](#) <!-- Add your LinkedIn URL here -->
+- [LinkedIn](#) <a href="https://www.linkedin.com/in/gaurav-sharma-0a6a65323/"></a>
 - [Personal Website](#) <!-- Add your personal website URL here -->
-- **Gmail:** *Reach out via LinkedIn for my email address!*
+- **Gmail:** gaurav130706@gmail.com
 
 ---
 
