@@ -5,7 +5,7 @@ I'm a passionate student who loves diving into the world of tech. Always curious
 
 ## 🛠️ Skills
 <!--CPP-->
-[![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,css,html,c,git)](https://skillicons.dev)
 
 
 ## 🌟 Motto
